@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://giuseppe-lombardo.github.io/reference-whuo5q/sitemap.xml
